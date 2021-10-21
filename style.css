@@ -1,0 +1,13 @@
+.rps-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5vh;
+}
+
+.rps-icon {
+    height: 150px;
+    width: 150px;
+    border: 4px solid black;
+}
